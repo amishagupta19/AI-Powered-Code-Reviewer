@@ -139,4 +139,4 @@ MIT
 
 ---
 
-**Happy
+**Happy Coding!**
